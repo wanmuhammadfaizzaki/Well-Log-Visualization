@@ -1,20 +1,3 @@
-# Well Log Visualization using FORCE 2020 Dataset
-
-## Project Overview
-
-This mini project focuses on quick visualization and analysis of well log data using the FORCE 2020 Lithology Prediction Dataset. The project is designed to help petroleum engineering students, geoscientists, and data science learners understand subsurface formations through common petrophysical logs.
-
-The visualization includes:
-
-- Gamma Ray (GR)
-- Resistivity Logs (RSHA, RMED, RDEP)
-- Bulk Density (RHOB)
-- Neutron Porosity (NPHI)
-
-This project also serves as a foundation for future machine learning applications such as lithology prediction and electrofacies classification.
-
----
-
 # Dataset Information
 
 ## Lithology Prediction Dataset (FORCE 2020)
